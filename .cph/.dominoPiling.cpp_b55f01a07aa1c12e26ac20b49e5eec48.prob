@@ -1,0 +1,1 @@
+{"name":"Local: dominoPiling","url":"/home/uday/Code/codeforces/dominoPiling.cpp","tests":[{"id":1696192949993,"input":"2 4","output":"4"},{"id":1696192961525,"input":"3 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/uday/Code/codeforces/dominoPiling.cpp","group":"local","local":true}
